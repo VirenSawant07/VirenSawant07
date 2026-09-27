@@ -5,7 +5,7 @@ I like building things that run reliably: automated pipelines, containers, and c
 
 🔭 Looking for a **DevOps / Cloud / SRE internship** (2027)
 🌱 Currently learning: **Docker → GitHub Actions → Terraform on AWS**
-📫 Reach me: [https://www.linkedin.com/in/virensawant07/] · [viren25.sawant@gmail.com]
+📫 Reach me: https://www.linkedin.com/in/virensawant07/ · viren25.sawant@gmail.com
 
 ---
 
@@ -21,9 +21,9 @@ I like building things that run reliably: automated pipelines, containers, and c
 
 ## 🛠️ Tools I work with
 
-**Cloud & DevOps:** AWS · Docker · GitHub Actions · Git · Linux
-**Languages:** Python · Java · SQL
-**Also used in projects:** TensorFlow / Keras · Streamlit · Flask · Terraform
+- **Cloud & DevOps:** AWS · Docker · GitHub Actions · Git · Linux
+- **Languages:** Python · Java · SQL
+- **Also used in projects:** TensorFlow / Keras · Streamlit · Flask · Terraform
 
 ---
 
